@@ -1,0 +1,16 @@
+references:
+  - "https://en.wikipedia.org/wiki/Mercedes-Benz_SL-Class"
+
+generations:
+  - name: "R230"
+    start_year: 2002
+    end_year: 2011
+    description: "With V6, V8 and V12 engines and a retractable hardtop."
+  - name: "R231"
+    start_year: 2012
+    end_year: 2020
+    description: "An aluminium-bodied roadster with V6, V8 and V12 engines."
+  - name: "R232"
+    start_year: 2022
+    end_year: null
+    description: "Developed by Mercedes-AMG, with four-cylinder and V8 engines."
